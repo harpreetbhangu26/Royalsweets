@@ -47,7 +47,7 @@ export default function Home() {
               <h1 className="font-semibold hover:bg-amber-500 text-center py-2 my-2 rounded-lg shadow-lg hover:translate-x-1 hover:font-bold bg-gray-900 text-gray-100 mx-3">
                 {title}
               </h1>
-              <p className="text-right text-xl bg-amber-500 ml-44 mr-1">
+              <p className="text-right text-xl bg-amber-500 ml-40 mr-3">
                 {price}
               </p>
             </div>

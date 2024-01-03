@@ -6,7 +6,7 @@ import { FaLocationDot } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 export default function Header() {
   return (
-    <div className=" max-w-screen my-2 p-4 flex items-center justify-between bg-gray-800 text-gray-200">
+    <div className=" flex  overscroll-none max-w-screen  my-2 p-4  items-center justify-between bg-gray-800 text-gray-200">
       <div className="">
         <img
           className="mx-16 ml-5 sm:h-28 w-36 "

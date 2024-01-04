@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.941d8206.css",
+    "main.js": "/static/js/main.2d40cdea.js",
+    "static/media/AnjirBrifi.jpg": "/static/media/AnjirBrifi.fa500939f97e57342b1f.jpg",
+    "static/media/Balushai.jpg": "/static/media/Balushai.f5413be63e12e41b2343.jpg",
+    "static/media/Motichoorladdo.jpg": "/static/media/Motichoorladdo.9848227a287c3f5c5444.jpg",
+    "static/media/PlainBrfi.jpg": "/static/media/PlainBrfi.251dd2f0ec3837187157.jpg",
+    "static/media/Royal Sweets-logos.jpeg": "/static/media/Royal Sweets-logos.a832609bc127b6a4d9e5.jpeg",
+    "index.html": "/index.html",
+    "main.941d8206.css.map": "/static/css/main.941d8206.css.map",
+    "main.2d40cdea.js.map": "/static/js/main.2d40cdea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.941d8206.css",
+    "static/js/main.2d40cdea.js"
+  ]
+}

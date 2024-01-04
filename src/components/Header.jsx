@@ -14,11 +14,11 @@ export default function Header() {
           alt="royal sweets"
         />
       </div>
-      <div className="text-xl sm:text-3xl text-amber-100 ml-20">
+      <div className="text-lg sm:text-3xl text-amber-100 ml-20">
         <h1>King Street, Southall</h1>
       </div>
-      <div className="px-2 sm:px-8">
-        <ul className="flex gap-5 font-bold  ">
+      <div className="px-2 sm:px-8 ">
+        <ul className="flex flex-wrap lg:inline-flex gap-5 font-bold  ">
           <Link
             to="/"
             className="flex hover:underline underline-offset-4 decoration-amber-500 decoration-[5px] ]"

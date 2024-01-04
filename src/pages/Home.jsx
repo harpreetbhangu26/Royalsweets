@@ -35,7 +35,7 @@ export default function Home() {
 
   return (
     <>
-      <div className="grid grid-cols-2  justify-between items-center gap-4 lg:grid-cols-3 lg:justify-center bg-gray-700">
+      <div className="overflow-hidden relative grid grid-cols-2  justify-between items-center gap-4 lg:grid-cols-3 lg:justify-center bg-gray-700">
         {images.map(({ id, link, title, price }) => (
           <div className="bg-gray-500 h-auto rounded-md py-3 gap-x-1">
             <div className="" key={id}>

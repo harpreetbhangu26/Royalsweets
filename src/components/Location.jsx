@@ -9,7 +9,7 @@ const Location = () => {
 
   return (
     <div className="px-4">
-      <h1 className="font-bold text-center py-4">
+      <h1 className="font-bold  py-4">
         Royal Sweets <br /> 14A, King Street,UB24DA
       </h1>
       {!isLoaded ? (

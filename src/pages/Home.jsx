@@ -2,7 +2,7 @@ import React from "react";
 import Balushai from "../Royalsweets2/Balushai.jpg";
 import PlainBrfi from "../Royalsweets2/PlainBrfi.jpg";
 import AnjirBrfi from "../Royalsweets2/AnjirBrifi.jpg";
-import badambrfi from "../Royalsweets2/badambrfi.jpg";
+
 import MotichoorLadoo from "../Royalsweets2/Motichoorladdo.jpg";
 
 export default function Home() {

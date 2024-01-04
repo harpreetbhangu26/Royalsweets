@@ -6,7 +6,7 @@ import { FaLocationDot } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 export default function Header() {
   return (
-    <div className=" flex  overscroll-none max-w-screen  my-2 p-4  items-center justify-between bg-gray-800 text-gray-200">
+    <div className=" flex relative overflow-hidden  overscroll-none max-w-screen  my-2 p-4  items-center justify-between bg-gray-800 text-gray-200">
       <div className="">
         <img
           className="mx-16 ml-5 sm:h-28 w-36 "
@@ -37,7 +37,10 @@ export default function Header() {
             to="/location"
             className="flex hover:underline underline-offset-4 decoration-amber-500 decoration-[5px]"
           >
-            <FaLocationDot className="hidden sm:inline text-2xl hover:text-amber-500 hover:scale-110" />
+            <FaLocationDot
+              to="/location"
+              className="hidden sm:inline text-2xl hover:text-amber-500 hover:scale-110"
+            />
             <li>Location</li>
           </Link>
         </ul>
